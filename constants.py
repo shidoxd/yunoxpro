@@ -1,0 +1,4 @@
+API_ID = 1867101
+API_HASH = "575578cbbcf4d9799935e2dfcecf8485"
+SESSION_KEY = "1BVtsOGQBu2bJID6IkmSSusmpLqDVCl9dUMfIhxq1UnzjApyoD2cGqPrRKYPw2lSIb4XJGqLNFZ0wzcd_Rn3XR14pL8NQFU1f6CY300uC14g1VVYWMeBrcJXsh7hM5FJRlYs5w-fg9iywdE0UdL4Oidof6ShrbdWvTCsPVfhoakqkpLVWcgs5Ji9d6nb3CHkkcDc89fv8ohLhOvpcYzriAMk1tjH8uNwfwlVzdR4aSX_YL5gbepn7i6gCDqAwIhV1fGB06T--YjgFtbfjgmRf0bLRpGaEq_noBxW_MvIlpb_-U-hjUCtpnegMjsWe3wcCOxJlpdfzM_gmMrMRKKiadycIJcFjm_I=" 
+CMD_PREFIX = '\//' 
